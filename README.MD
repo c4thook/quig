@@ -1,9 +1,9 @@
 ### Quig: The Ultimate Team Fortress 2 Training Software
 
-**Developed by**: Interceptor & Theron York
+**Developed by**: Interceptor & BIG YORK
 
 **Introduction:**
-Quig is an exciting new training software tailored specifically for Team Fortress 2 (TF2) enthusiasts. Created by the talented developers Interceptor and Theron York, Quig aims to elevate your gameplay by providing comprehensive training tools and personalized feedback to help you master every aspect of TF2.
+Quig is an exciting new training software tailored specifically for Team Fortress 2 (TF2) enthusiasts. Created by the talented developers Interceptor and BIG YORK, Quig aims to elevate your gameplay by providing comprehensive training tools and personalized feedback to help you master every aspect of TF2.
 
 **Key Features:**
 
@@ -26,7 +26,7 @@ Quig is an exciting new training software tailored specifically for Team Fortres
    Designed with gamers in mind, Quig features an intuitive interface that makes navigation and usage a breeze. Its clean design ensures that players can focus on improving their skills without being bogged down by complicated menus.
 
 7. **Regular Updates:**
-   Interceptor and Theron York are committed to keeping Quig at the forefront of TF2 training tools. Regular updates ensure that the software remains relevant, incorporating new features and improvements based on user feedback and the evolving TF2 meta.
+   Interceptor and BIG YORK are committed to keeping Quig at the forefront of TF2 training tools. Regular updates ensure that the software remains relevant, incorporating new features and improvements based on user feedback and the evolving TF2 meta.
 
 **Conclusion:**
-Quig is set to become an indispensable tool for any TF2 player looking to up their game. With its comprehensive training modules, real-time analytics, personalized coaching, and competitive community features, Quig provides everything you need to master Team Fortress 2. Created by Interceptor and Theron York, Quig is your ultimate companion on the path to becoming a TF2 pro.
+Quig is set to become an indispensable tool for any TF2 player looking to up their game. With its comprehensive training modules, real-time analytics, personalized coaching, and competitive community features, Quig provides everything you need to master Team Fortress 2. Created by Interceptor and BIG YORK, Quig is your ultimate companion on the path to becoming a TF2 pro.
